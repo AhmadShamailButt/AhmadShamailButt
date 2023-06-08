@@ -15,7 +15,16 @@ https://simpleicons.org/
 <h2 align='center'><samp><strong>Hi there 👋, I am Ahmad Shamail Butt</strong></samp></h2>
 <p align='center'>Programmer | C++ | sfml</p>
 
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
+<p align='left'> 🎓 Currently studying BS Software Engineering at FAST-NUCES Lahore.
+
+⚡ Expertise: OOP Programming Fundamentals, C++, and SFML.
+
+🌱 Continuously learning and exploring new technologies.
+
+🔭 Currently expanding my skills in ASP.NET, C#, and SQL.
+
+🌟 Passionate about software development and creating innovative solutions.
+</p>
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
 
