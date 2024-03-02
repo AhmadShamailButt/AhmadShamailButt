@@ -20,7 +20,7 @@ https://simpleicons.org/
 
 🌱 Continuously learning and exploring new technologies.
 
-🔭 Currently expanding my skills in Python, Web, and Video Editing.
+🔭 Currently expanding my skills in Python,Java and Web.
 
 🌟 Passionate about software development and creating innovative solutions.
 </p>
@@ -37,7 +37,7 @@ https://simpleicons.org/
 
 🧐 **Knowledge of:**<br>
 
-`Programming Fundamentals`, `Object-Oriented Programming`,`C++`,`Sfml`,`Data Structure`,`UI/UX`,`Web Development`.
+`Programming Fundamentals`, `Object-Oriented Programming`,`C++`,`Sfml`,`Data Structure`,`UI/UX`,`Web Development`,`Python`,`Java`.
 
 
 🌍 **Deployment platforms:**<br>
