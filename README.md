@@ -14,7 +14,6 @@ https://simpleicons.org/
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Shamail%20Butt-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ahmad-shamail-butt/)
 <h2 align='center'><samp><strong>Hi there 👋, I am Ahmad Shamail Butt</strong></samp></h2>
-<p align='center'>Programmer | C++ | SFML | Python | Frontend | ML/AI </p>
 
 <p align='left'>🎓 Currently studying BS Software Engineering at FAST-NUCES Lahore.
 
