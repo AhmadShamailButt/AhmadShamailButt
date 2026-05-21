@@ -35,7 +35,6 @@ focus:
   - full-stack web (TypeScript · Next.js)
   - python backends & AI-driven tools
   - IoT & real-time systems
-  - healthcare interoperability (FHIR)
 working_on:
   - ARIA — TypeScript frontend + Python backend
 ask_me_about:
