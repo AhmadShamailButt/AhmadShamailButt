@@ -3,7 +3,7 @@
      ============================================================ -->
 
 <a href="https://github.com/AhmadShamailButt">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F2937,100:0D1117&height=180&section=header&text=Ahmad%20Shamail%20Butt&fontColor=FFFFFF&fontSize=42&fontAlign=50&fontAlignY=38&desc=Software%20%C2%B7%20AI%20%C2%B7%20Agentic%20AI%20%C2%B7%20Automation%20Engineer&descSize=15&descAlign=50&descAlignY=62&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:06B6D4&height=180&section=header&text=Ahmad%20Shamail%20Butt&fontColor=FFFFFF&fontSize=42&fontAlign=50&fontAlignY=38&desc=Software%20%C2%B7%20AI%20%C2%B7%20Agentic%20AI%20%C2%B7%20Automation%20Engineer&descSize=15&descAlign=50&descAlignY=62&animation=fadeIn" alt="header" />
 </a>
 
 <p align="center">
@@ -179,7 +179,7 @@ ask_me_about:
      footer
      ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F2937,100:0D1117&height=90&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:1E3A8A&height=90&section=footer" alt="footer" />
 
 <p align="center">
   <sub>Reach me on <a href="https://www.linkedin.com/in/ahmad-shamail-butt/">LinkedIn</a> or at <a href="mailto:ahmadshamailbutt@gmail.com">ahmadshamailbutt@gmail.com</a>.</sub>
