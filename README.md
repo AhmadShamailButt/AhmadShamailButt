@@ -3,12 +3,12 @@
      ============================================================ -->
 
 <a href="https://github.com/AhmadShamailButt">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:f7768e&height=180&section=header&text=Ahmad%20Shamail%20Butt&fontColor=1a1b27&fontSize=42&fontAlign=50&fontAlignY=38&desc=Software%20engineer%20%C2%B7%20Lahore%2C%20Pakistan&descSize=15&descAlign=50&descAlignY=62&descColor=1a1b27&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=180&section=header&text=Ahmad%20Shamail%20Butt&fontColor=FFFFFF&fontSize=42&fontAlign=50&fontAlignY=38&desc=Software%20engineer%20%C2%B7%20Lahore%2C%20Pakistan&descSize=15&descAlign=50&descAlignY=62&animation=fadeIn" alt="header" />
 </a>
 
 <p align="center">
   <a href="https://github.com/AhmadShamailButt">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-stack+web+%C2%B7+TypeScript+%26+Python;AI-driven+tools+%26+healthcare+interoperability;IoT+%26+real-time+systems;Ship+something+real%2C+then+make+it+good" alt="typing svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-stack+web+%C2%B7+TypeScript+%26+Python;AI-driven+tools+%26+real-time+systems;IoT+%26+embedded+%C2%B7+ESP32+%C2%B7+Azure" alt="typing svg" />
   </a>
 </p>
 
@@ -178,7 +178,7 @@ ask_me_about:
      footer
      ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7768e,50:bb9af7,100:7aa2f7&height=90&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&height=90&section=footer" alt="footer" />
 
 <p align="center">
   <sub>Reach me on <a href="https://www.linkedin.com/in/ahmad-shamail-butt/">LinkedIn</a> or at <a href="mailto:ahmadshamailbutt@gmail.com">ahmadshamailbutt@gmail.com</a>.</sub>
