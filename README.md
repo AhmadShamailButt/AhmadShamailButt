@@ -52,37 +52,30 @@ ask_me_about:
 
 ### 🛠 Stack
 
-<table align="center">
-  <tr>
-    <td align="right" valign="middle"><sub><b>Languages</b></sub></td>
-    <td align="left">
-      <a href="#"><img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,mysql" alt="languages" height="42" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><sub><b>Web &amp; Backend</b></sub></td>
-    <td align="left">
-      <a href="#"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,django,fastapi" alt="web" height="42" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><sub><b>Data &amp; Infra</b></sub></td>
-    <td align="left">
-      <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,gcp,git" alt="infra" height="42" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><sub><b>AI &amp; Agents</b></sub></td>
-    <td align="left">
-      <a title="LangGraph"><img src="https://img.shields.io/badge/LangGraph-1C3A5E?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" /></a>
-      <a title="RAG"><img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square&logoColor=white" alt="RAG" /></a>
-      <a title="n8n"><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" /></a>
-      <a title="OpenAI"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" /></a>
-      <a title="Claude"><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" /></a>
-      <a title="Gemini"><img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<sub>**LANGUAGES**</sub>
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,mysql&perline=7" alt="languages" /></a>
+
+<sub>**WEB & BACKEND**</sub>
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,django,fastapi&perline=7" alt="web" /></a>
+
+<sub>**DATA & INFRA**</sub>
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,gcp,git&perline=7" alt="infra" /></a>
+
+<sub>**AI & AGENTS**</sub>
+
+<a title="LangGraph"><img src="https://img.shields.io/badge/LangGraph-1C3A5E?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" /></a>
+<a title="RAG"><img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logoColor=white" alt="RAG" /></a>
+<a title="n8n"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /></a>
+<a title="OpenAI"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a>
+<a title="Claude"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a>
+<a title="Gemini"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /></a>
+
+</div>
 
 <br/>
 
