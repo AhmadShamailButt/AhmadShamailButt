@@ -80,9 +80,6 @@ ask_me_about:
       <a title="OpenAI"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" /></a>
       <a title="Claude"><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" /></a>
       <a title="Gemini"><img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /></a>
-      <a title="YOLOv8"><img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logoColor=white" alt="YOLOv8" /></a>
-      <a title="WebRTC"><img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" /></a>
-      <a title="FHIR"><img src="https://img.shields.io/badge/FHIR-AA1A2C?style=flat-square&logoColor=white" alt="FHIR" /></a>
     </td>
   </tr>
 </table>
