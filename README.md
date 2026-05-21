@@ -99,7 +99,7 @@ ask_me_about:
 <tr>
   <td width="50%" valign="top">
 
-  <h4>🤖 <a href="#">ARIA</a> · <em>current</em></h4>
+  <h4>🤖 <a href="#">ARIA</a> · <em>current · 2026</em></h4>
 
   Adaptive Recruitment using Conversational AI. Dual-agent resume screening with **Resume2Vec** semantic embeddings — **95.5%** candidate-job matching accuracy across 1,000+ resumes. Real-time AI avatar interviews with **YOLOv8** cheating detection, **20** concurrent sessions under **300ms** latency. Coursera LMS integration for personalized upskilling.
 
@@ -108,31 +108,31 @@ ask_me_about:
   </td>
   <td width="50%" valign="top">
 
-  <h4>🚗 <a href="https://github.com/AhmadShamailButt/GoFast-Carpool-App">GoFAST — Carpooling App</a></h4>
+  <h4>📡 <a href="https://github.com/AhmadShamailButt/gps-tracker">gps-tracker</a> · <em>2026</em></h4>
 
-  Campus carpooling platform (MERN) with **JWT** auth, **WebSocket** messaging, ride booking, filtering, and live location sharing — built to improve student safety and cut transport costs at FAST NUCES.
+  GPS-based IoT asset tracker — **ESP32** firmware → **Azure IoT Hub** + **Mosquitto MQTT** → **Next.js** dashboard, with a **Python Isolation-Forest** anomaly engine.
 
-  `React` · `Node.js` · `MongoDB` · `WebSockets` · `MVC` · `JWT`
+  `ESP32` · `Azure IoT` · `MQTT` · `TypeScript` · `Python` · `ML`
 
   </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
 
-  <h4>🏷 <a href="#">Metro POS System</a></h4>
-
-  Modular point-of-sale system with role-based access, offline sync, PDF report generation, and **JUnit**-based testing. Built around MVC and tested with proper unit coverage.
-
-  `Java` · `SQL Server` · `Java Swing` · `MVC` · `JUnit`
-
-  </td>
-  <td width="50%" valign="top">
-
-  <h4>🏠 <a href="https://github.com/AhmadShamailButt/property-search">property-search</a></h4>
+  <h4>🏠 <a href="https://github.com/AhmadShamailButt/property-search">property-search</a> · <em>2026</em></h4>
 
   Real-estate search platform — full-stack TypeScript with **PostgreSQL** and PL/pgSQL stored procedures.
 
   `TypeScript` · `Next.js` · `PostgreSQL` · `PL/pgSQL`
+
+  </td>
+  <td width="50%" valign="top">
+
+  <h4>🎮 <a href="https://github.com/AhmadShamailButt/Gamming-Hub-Management-System">Gaming Hub Management System</a> · <em>2023</em></h4>
+
+  Desktop application for managing a gaming café — accounts, sessions, billing, inventory. **C++** with **SFML**, full OOP architecture.
+
+  `C++` · `SFML` · `OOP` · `CMake`
 
   </td>
 </tr>
@@ -144,7 +144,7 @@ ask_me_about:
 <tr>
   <td width="50%" valign="top">
 
-  <h4>🔐 <a href="https://github.com/AhmadShamailButt/SecureChat">SecureChat</a></h4>
+  <h4>🔐 <a href="https://github.com/AhmadShamailButt/SecureChat">SecureChat</a> · <em>2026</em></h4>
 
   End-to-end encrypted real-time messaging web app. Forked from a team project; contributed across the stack.
 
@@ -153,9 +153,9 @@ ask_me_about:
   </td>
   <td width="50%" valign="top">
 
-  <h4>🧠 <a href="https://github.com/AhmadShamailButt/Trivium-AI">Trivium-AI</a></h4>
+  <h4>🧠 <a href="https://github.com/AhmadShamailButt/Trivium-AI">Trivium-AI</a> · <em>2026</em></h4>
 
-  Mixture-of-Experts text generator with intent-based expert routing (Story / Poem / Email).
+  Mixture-of-Experts text generator with intent-based expert routing (Story / Poem / Email). Forked from a team project.
 
   `Python` · `LLM` · `Docker`
 
@@ -164,16 +164,16 @@ ask_me_about:
 <tr>
   <td width="50%" valign="top">
 
-  <h4>🎮 <a href="https://github.com/AhmadShamailButt/Gamming-Hub-Management-System">Gaming Hub Management System</a></h4>
+  <h4>🚗 <a href="https://github.com/AhmadShamailButt/GoFast-Carpool-App">GoFAST — Carpooling App</a> · <em>2025</em></h4>
 
-  Desktop application for managing a gaming café — accounts, sessions, billing, inventory. **C++** with **SFML**, full OOP architecture.
+  Campus carpooling platform (MERN) with **JWT** auth, **WebSocket** messaging, ride booking, filtering, and live location sharing — built to improve student safety and cut transport costs at FAST NUCES.
 
-  `C++` · `SFML` · `OOP` · `CMake`
+  `React` · `Node.js` · `MongoDB` · `WebSockets` · `MVC` · `JWT`
 
   </td>
   <td width="50%" valign="top">
 
-  <h4>🌦 <a href="https://github.com/AhmadShamailButt/Weather-App-SDA-Project">Weather-App-SDA</a></h4>
+  <h4>🌦 <a href="https://github.com/AhmadShamailButt/Weather-App-SDA-Project">Weather-App-SDA</a> · <em>2024</em></h4>
 
   Weather application — Software Design & Architecture course project. Java, design-patterns-heavy.
 
