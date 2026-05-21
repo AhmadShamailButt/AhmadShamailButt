@@ -3,7 +3,7 @@
      ============================================================ -->
 
 <a href="https://github.com/AhmadShamailButt">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=160&section=header&text=Ahmad%20Shamail%20Butt&fontColor=FFFFFF&fontSize=40&fontAlign=50&fontAlignY=40&desc=Software%20%C2%B7%20AI%20%C2%B7%20Agentic%20AI%20%C2%B7%20Automation%20Engineer&descSize=15&descAlign=50&descAlignY=65&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F2937,100:0D1117&height=180&section=header&text=Ahmad%20Shamail%20Butt&fontColor=FFFFFF&fontSize=42&fontAlign=50&fontAlignY=38&desc=Software%20%C2%B7%20AI%20%C2%B7%20Agentic%20AI%20%C2%B7%20Automation%20Engineer&descSize=15&descAlign=50&descAlignY=62&animation=fadeIn" alt="header" />
 </a>
 
 <p align="center">
@@ -52,50 +52,40 @@ ask_me_about:
 
 ### 🛠 Stack
 
-<p align="center">
-  <strong>Languages</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" height="40" />
-</p>
-
-<p align="center">
-  <strong>Web &amp; Backend</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" height="40" style="background:#fff;border-radius:6px;padding:4px" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" height="40" />
-</p>
-
-<p align="center">
-  <strong>Data &amp; Infra</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" alt="Redis" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" height="40" />
-</p>
-
-<p align="center">
-  <strong>AI &amp; Agents</strong><br/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3A5E?style=for-the-badge&logo=langchain&logoColor=white" title="LangGraph" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logoColor=white" title="RAG (Retrieval-Augmented Generation)" alt="RAG" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" title="n8n" alt="n8n" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" title="OpenAI API" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" title="Claude API" alt="Claude" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" title="Gemini API" alt="Gemini" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" title="YOLOv8" alt="YOLOv8" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" title="WebRTC" alt="WebRTC" />
-  <img src="https://img.shields.io/badge/FHIR-AA1A2C?style=for-the-badge&logoColor=white" title="FHIR" alt="FHIR" />
-</p>
+<table align="center">
+  <tr>
+    <td align="right" valign="middle"><sub><b>Languages</b></sub></td>
+    <td align="left">
+      <a href="#"><img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,mysql" alt="languages" height="42" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><sub><b>Web &amp; Backend</b></sub></td>
+    <td align="left">
+      <a href="#"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,django,fastapi" alt="web" height="42" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><sub><b>Data &amp; Infra</b></sub></td>
+    <td align="left">
+      <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,gcp,git" alt="infra" height="42" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><sub><b>AI &amp; Agents</b></sub></td>
+    <td align="left">
+      <a title="LangGraph"><img src="https://img.shields.io/badge/LangGraph-1C3A5E?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" /></a>
+      <a title="RAG"><img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square&logoColor=white" alt="RAG" /></a>
+      <a title="n8n"><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" /></a>
+      <a title="OpenAI"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" /></a>
+      <a title="Claude"><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" /></a>
+      <a title="Gemini"><img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /></a>
+      <a title="YOLOv8"><img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logoColor=white" alt="YOLOv8" /></a>
+      <a title="WebRTC"><img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" /></a>
+      <a title="FHIR"><img src="https://img.shields.io/badge/FHIR-AA1A2C?style=flat-square&logoColor=white" alt="FHIR" /></a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -199,7 +189,7 @@ ask_me_about:
      footer
      ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F2937,100:0D1117&height=90&section=footer" alt="footer" />
 
 <p align="center">
   <sub>Reach me on <a href="https://www.linkedin.com/in/ahmad-shamail-butt/">LinkedIn</a> or at <a href="mailto:ahmadshamailbutt@gmail.com">ahmadshamailbutt@gmail.com</a>.</sub>
