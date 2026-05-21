@@ -3,7 +3,7 @@
      ============================================================ -->
 
 <a href="https://github.com/AhmadShamailButt">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:06B6D4&height=180&section=header&text=Ahmad%20Shamail%20Butt&fontColor=FFFFFF&fontSize=42&fontAlign=50&fontAlignY=38&desc=Software%20%C2%B7%20AI%20%C2%B7%20Agentic%20AI%20%C2%B7%20Automation%20Engineer&descSize=15&descAlign=50&descAlignY=62&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:06B6D4&height=180&section=header&text=Ahmad%20Shamail%20Butt&fontColor=FFFFFF&fontSize=42&fontAlign=50&fontAlignY=38&desc=Software%20%C2%B7%20Full-stack%20%C2%B7%20Agentic%20AI%20%C2%B7%20Automation%20Engineer&descSize=15&descAlign=50&descAlignY=62&animation=fadeIn" alt="header" />
 </a>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ```yaml
 name:     Ahmad Shamail Butt
-role:     Software · AI · Agentic AI · Automation engineer
+role:     Software · Full-stack · Agentic AI · Automation engineer
 based_in: Lahore, Pakistan
 focus:
   - agentic AI systems (LangGraph · n8n · multi-agent orchestration)
@@ -52,11 +52,20 @@ ask_me_about:
 
 ### 🛠 Stack
 
-<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,mysql,nextjs,react,tailwind,nodejs,express,django,fastapi,postgres,mongodb,redis,docker,aws,gcp,git&perline=10" alt="stack" />
+  </a>
+</p>
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&titleAlign=center&lineCount=4&theme=github_dark&hideBg=true&hideTitle=true&line1=python%2Cpython%2Cf7df1e%3Btypescript%2Cts%2C3178c6%3Bjavascript%2Cjs%2Cf7df1e%3Bjava%2Cjava%2Cf89820%3Bcplusplus%2CC%2B%2B%2C00599c%3Bmysql%2CSQL%2C4479A1&line2=nextdotjs%2CNext.js%2C000000%3Breact%2CReact%2C61dafb%3Btailwindcss%2CTailwind%2C06b6d4%3Bnodedotjs%2CNode.js%2C5fa04e%3Bexpress%2CExpress%2C000000%3Bdjango%2CDjango%2C092e20%3Bfastapi%2CFastAPI%2C009688&line3=postgresql%2CPostgres%2C336791%3Bmongodb%2CMongoDB%2C47a248%3Bredis%2CRedis%2Cdc382d%3Bdocker%2CDocker%2C2496ed%3Bamazonwebservices%2CAWS%2Cff9900%3Bgooglecloud%2CGCP%2C4285f4%3Bgit%2CGit%2Cf05032&line4=langchain%2CLangGraph%2C1c3a5e%3Bopenai%2COpenAI%2C412991%3Banthropic%2CClaude%2Cd97757%3Bgooglegemini%2CGemini%2C4285f4%3Bn8n%2Cn8n%2Cea4b71%3Brobotframework%2CRAG%2C4b8bbe" alt="tech stack" />
-
-</div>
+<p align="center">
+  <a title="LangGraph"><img src="https://img.shields.io/badge/LangGraph-1C3A5E?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" /></a>
+  <a title="RAG"><img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logoColor=white" alt="RAG" /></a>
+  <a title="n8n"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /></a>
+  <a title="OpenAI"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a>
+  <a title="Claude"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a>
+  <a title="Gemini"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /></a>
+</p>
 
 <br/>
 
