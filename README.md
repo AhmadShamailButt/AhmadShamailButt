@@ -101,7 +101,7 @@ ask_me_about:
 
   <h4>🤖 <a href="#">ARIA</a> · <em>current</em></h4>
 
-  Adaptive Recruitment using Conversational AI. Dual-agent resume screening with **Resume2Vec** semantic embeddings — **95.5%** candidate-job matching accuracy across 1,000+ resumes. Real-time AI avatar interviews with **YOLOv8** cheating detection, **20** concurrent sessions under **300ms** latency. Coursera LMS integration for personalized upskilling.
+  Adaptive Recruitment using Conversational AI. Dual-agent resume screening with **Resume2Vec** semantic embeddings — **95.5%** candidate-job matching accuracy across 1,000+ resumes. Real-time AI avatar interviews with **YOLOv8** cheating detection. Coursera LMS integration for personalized upskilling.
 
   `Next.js` · `Django` · `PostgreSQL` · `Retell AI` · `WebRTC` · `FOMM` · `Wav2Lip` · `YOLOv8` · `TanStack Query` · `Resume2Vec`
 
@@ -110,9 +110,9 @@ ask_me_about:
 
   <h4>📡 <a href="https://github.com/AhmadShamailButt/gps-tracker">gps-tracker</a></h4>
 
-  GPS-based IoT asset tracker — **ESP32** firmware → **Azure IoT Hub** + **Mosquitto MQTT** → **Next.js** dashboard, with a **Python Isolation-Forest** anomaly engine.
+  GPS-based IoT asset tracker — **ESP32** firmware (Arduino C++) → **MQTT** → **Next.js 16** dashboard with live map (Leaflet + Turf) and a **Python Isolation-Forest** anomaly engine.
 
-  `ESP32` · `Azure IoT` · `MQTT` · `TypeScript` · `Python` · `ML`
+  `ESP32` · `Arduino` · `MQTT` · `Next.js` · `React` · `Tailwind` · `Leaflet` · `Python` · `Isolation Forest`
 
   </td>
 </tr>
@@ -130,9 +130,9 @@ ask_me_about:
 
   <h4>🎮 <a href="https://github.com/AhmadShamailButt/Gamming-Hub-Management-System">Gaming Hub Management System</a></h4>
 
-  Desktop application for managing a gaming café — accounts, sessions, billing, inventory. **C++** with **SFML**, full OOP architecture.
+  Desktop application for managing a gaming café — accounts, sessions, billing, inventory. Custom rendering / input handling in pure **C++** with a full OOP class hierarchy.
 
-  `C++` · `SFML` · `OOP` · `CMake`
+  `C++` · `OOP` · `CMake`
 
   </td>
 </tr>
@@ -146,18 +146,18 @@ ask_me_about:
 
   <h4>🔐 <a href="https://github.com/AhmadShamailButt/SecureChat">SecureChat</a></h4>
 
-  End-to-end encrypted real-time messaging web app. Forked from a team project; contributed across the stack.
+  End-to-end encrypted real-time messaging web app. **Express + Socket.io** backend with **JWT** auth, **bcrypt**, and **Helmet**; **React 19 + Redux Toolkit + Tailwind** frontend.
 
-  `JavaScript` · `WebCrypto` · `Sockets`
+  `React` · `Redux Toolkit` · `Express` · `Socket.io` · `JWT` · `Tailwind`
 
   </td>
   <td width="50%" valign="top">
 
   <h4>🧠 <a href="https://github.com/AhmadShamailButt/Trivium-AI">Trivium-AI</a></h4>
 
-  Mixture-of-Experts text generator with intent-based expert routing (Story / Poem / Email). Forked from a team project.
+  Mixture-of-Experts text generator with intent-based expert routing (Story / Poem / Email). **FastAPI** + **LangGraph** + **LangChain** routing to **Gemini**; React + Vite frontend; Dockerised.
 
-  `Python` · `LLM` · `Docker`
+  `FastAPI` · `LangGraph` · `LangChain` · `Gemini` · `React` · `Vite` · `Docker`
 
   </td>
 </tr>
@@ -166,18 +166,18 @@ ask_me_about:
 
   <h4>🚗 <a href="https://github.com/AhmadShamailButt/GoFast-Carpool-App">GoFAST — Carpooling App</a></h4>
 
-  Campus carpooling platform (MERN) with **JWT** auth, **WebSocket** messaging, ride booking, filtering, and live location sharing — built to improve student safety and cut transport costs at FAST NUCES.
+  Campus carpooling platform — **Express + Mongoose** backend with **Socket.io** messaging, **JWT** auth, and **Multer/Nodemailer** for uploads & email; **React 19 + Redux + Vite** frontend with live location sharing.
 
-  `React` · `Node.js` · `MongoDB` · `WebSockets` · `MVC` · `JWT`
+  `React` · `Redux` · `Express` · `MongoDB` · `Socket.io` · `JWT`
 
   </td>
   <td width="50%" valign="top">
 
   <h4>🌦 <a href="https://github.com/AhmadShamailButt/Weather-App-SDA-Project">Weather-App-SDA</a></h4>
 
-  Weather application — Software Design & Architecture course project. Java, design-patterns-heavy.
+  Weather application — Software Design & Architecture course project. Java desktop app with **JDBC** to MS SQL / MySQL and a JSON-driven UI; Maven-built.
 
-  `Java` · `Design Patterns` · `SDA`
+  `Java` · `JDBC` · `MS SQL` · `Maven` · `Design Patterns`
 
   </td>
 </tr>
