@@ -1,14 +1,14 @@
 <!-- ============================================================
-     header banner — capsule-render gradient
+     header banner — capsule-render gradient with dark text
      ============================================================ -->
 
 <a href="https://github.com/AhmadShamailButt">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=180&section=header&text=Ahmad%20Shamail%20Butt&fontColor=c0caf5&fontSize=42&fontAlign=50&fontAlignY=38&desc=Software%20engineer%20%C2%B7%20Lahore%2C%20Pakistan&descSize=15&descAlign=50&descAlignY=62&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:f7768e&height=180&section=header&text=Ahmad%20Shamail%20Butt&fontColor=1a1b27&fontSize=42&fontAlign=50&fontAlignY=38&desc=Software%20engineer%20%C2%B7%20Lahore%2C%20Pakistan&descSize=15&descAlign=50&descAlignY=62&descColor=1a1b27&animation=fadeIn" alt="header" />
 </a>
 
 <p align="center">
   <a href="https://github.com/AhmadShamailButt">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&lines=Full-stack+web+%C2%B7+TypeScript+%26+Python;AI-driven+tools+%26+healthcare+interoperability;%22Ship+something+real%2C+then+make+it+good.%22" alt="typing svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-stack+web+%C2%B7+TypeScript+%26+Python;AI-driven+tools+%26+healthcare+interoperability;IoT+%26+real-time+systems;Ship+something+real%2C+then+make+it+good" alt="typing svg" />
   </a>
 </p>
 
@@ -32,8 +32,9 @@ name:     Ahmad Shamail Butt
 role:     Software engineer
 based_in: Lahore, Pakistan
 focus:
-  - full-stack web (TypeScript · Next.js · Astro)
+  - full-stack web (TypeScript · Next.js)
   - python backends & AI-driven tools
+  - IoT & real-time systems
   - healthcare interoperability (FHIR)
 working_on:
   - ARIA — TypeScript frontend + Python backend
@@ -45,117 +46,140 @@ ask_me_about:
 <br/>
 
 <!-- ============================================================
-     stack — single skillicons row, no header noise
+     stack
      ============================================================ -->
+
+### 🛠 Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,astro,tailwind,nodejs,python,fastapi,postgres,docker,cpp,java,linux,git&perline=14" alt="stack" />
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,tailwind,python,fastapi,postgres,docker,azure,cpp,java,linux,git&perline=14" alt="stack" />
   </a>
 </p>
 
 <br/>
 
 <!-- ============================================================
-     selected work — repo cards (2x2 grid) instead of bullet list
+     selected work — clean table, no broken card images
      ============================================================ -->
 
 ### 🧩 Selected work
 
-<table align="center" border="0" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/AhmadShamailButt/property-search">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadShamailButt&repo=property-search&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="property-search" />
-      </a>
-      <br/>
-      <sub>Real-estate search platform · TypeScript + PostgreSQL</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/AhmadShamailButt/astro-sanity-blog">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadShamailButt&repo=astro-sanity-blog&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="astro-sanity-blog" />
-      </a>
-      <br/>
-      <sub>Astro + Sanity CMS page-builder · PostHog · Docker</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/AhmadShamailButt/anatomia-patient-link">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadShamailButt&repo=anatomia-patient-link&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="anatomia-patient-link" />
-      </a>
-      <br/>
-      <sub>SMART-on-FHIR healthcare app · TypeScript</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/ARIA-private-7AA2F7?style=for-the-badge&labelColor=1a1b27" alt="ARIA" />
-      <br/>
-      <br/>
-      <sub><b>ARIA</b> — current work<br/>TypeScript frontend + Python backend<br/><i>(private organisation repo)</i></sub>
-    </td>
-  </tr>
+<table align="center">
+<tr>
+  <td width="50%" valign="top">
+
+  <h4>🚧 <a href="#">ARIA</a> · <em>current</em></h4>
+
+  Agentic system — **TypeScript** frontend + **Python** backend.
+  Built within a private organisation; repos closed-source.
+
+  `TypeScript` · `Python` · `FastAPI` · `Next.js`
+
+  </td>
+  <td width="50%" valign="top">
+
+  <h4>📡 <a href="https://github.com/AhmadShamailButt/gps-tracker">gps-tracker</a></h4>
+
+  GPS-based IoT asset tracker — **ESP32** firmware → **Azure IoT Hub** + **Mosquitto MQTT** → **Next.js** dashboard, with a **Python Isolation-Forest** anomaly engine.
+
+  `ESP32` · `Azure IoT` · `MQTT` · `TypeScript` · `Python` · `ML`
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  <h4>🏠 <a href="https://github.com/AhmadShamailButt/property-search">property-search</a></h4>
+
+  Real-estate search platform — **TypeScript** + **PostgreSQL** (with PL/pgSQL stored procedures), full-stack.
+
+  `TypeScript` · `Next.js` · `PostgreSQL` · `PL/pgSQL`
+
+  </td>
+  <td width="50%" valign="top">
+
+  <h4>🎮 <a href="https://github.com/AhmadShamailButt/Gamming-Hub-Management-System">Gaming Hub Management System</a></h4>
+
+  Desktop application for managing a gaming café — accounts, sessions, billing, inventory. **C++** with **SFML**, full OOP architecture.
+
+  `C++` · `SFML` · `OOP` · `CMake`
+
+  </td>
+</tr>
 </table>
 
 #### 🤝 Team contributions
 
-<table align="center" border="0" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/AhmadShamailButt/SecureChat">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadShamailButt&repo=SecureChat&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="SecureChat" />
-      </a>
-      <br/>
-      <sub>End-to-end encrypted real-time messaging</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/AhmadShamailButt/Trivium-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadShamailButt&repo=Trivium-AI&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Trivium-AI" />
-      </a>
-      <br/>
-      <sub>Mixture-of-Experts text generator · intent routing</sub>
-    </td>
-  </tr>
+<table align="center">
+<tr>
+  <td width="50%" valign="top">
+
+  <h4>🔐 <a href="https://github.com/AhmadShamailButt/SecureChat">SecureChat</a></h4>
+
+  End-to-end encrypted real-time messaging web app. Forked from a team project; contributed across the stack.
+
+  `JavaScript` · `WebCrypto` · `Sockets`
+
+  </td>
+  <td width="50%" valign="top">
+
+  <h4>🧠 <a href="https://github.com/AhmadShamailButt/Trivium-AI">Trivium-AI</a></h4>
+
+  Mixture-of-Experts text generator with intent-based expert routing (Story / Poem / Email). Forked from a team project.
+
+  `Python` · `LLM` · `Docker`
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  <h4>🚗 <a href="https://github.com/AhmadShamailButt/GoFast-Carpool-App">GoFast Carpool</a></h4>
+
+  Carpool / ride-share web app. Team project.
+
+  `JavaScript` · `Node` · `Express`
+
+  </td>
+  <td width="50%" valign="top">
+
+  <h4>🌦 <a href="https://github.com/AhmadShamailButt/Weather-App-SDA-Project">Weather-App-SDA</a></h4>
+
+  Weather application — term project for the Software Design & Architecture course. Java, design-patterns-heavy.
+
+  `Java` · `Design Patterns` · `SDA`
+
+  </td>
+</tr>
 </table>
 
 <br/>
 
 <!-- ============================================================
-     activity — single richer panel (profile-summary-card) +
-     animated snake graph
+     stats — count private commits, one clean card
      ============================================================ -->
 
-### 📈 Activity
+### 📊 GitHub stats
 
 <p align="center">
   <a href="https://github.com/AhmadShamailButt">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmadShamailButt&theme=tokyonight" alt="profile summary" width="92%" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmadShamailButt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" />
+  </a>
+  <a href="https://github.com/AhmadShamailButt">
+    <img height="170" src="https://streak-stats.demolab.com?user=AhmadShamailButt&theme=tokyonight&hide_border=true" alt="streak" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/AhmadShamailButt">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmadShamailButt&theme=tokyonight" alt="repos per language" width="45%" />
-  </a>
-  <a href="https://github.com/AhmadShamailButt">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmadShamailButt&theme=tokyonight" alt="most committed languages" width="45%" />
-  </a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmadShamailButt/AhmadShamailButt/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmadShamailButt/AhmadShamailButt/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/AhmadShamailButt/AhmadShamailButt/output/github-snake.svg" />
-  </picture>
-</p>
+> **Note:** stats above only count my public-repo work. A lot of my activity (ARIA and other client/org work) sits in private repos — see my [contribution graph](https://github.com/AhmadShamailButt) for the full picture.
 
 <br/>
 
 <!-- ============================================================
-     footer — capsule-render close
+     footer
      ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b27&height=90&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7768e,50:bb9af7,100:7aa2f7&height=90&section=footer" alt="footer" />
 
 <p align="center">
   <sub>Reach me on <a href="https://www.linkedin.com/in/ahmad-shamail-butt/">LinkedIn</a> or at <a href="mailto:ahmadshamailbutt@gmail.com">ahmadshamailbutt@gmail.com</a>.</sub>
